@@ -1,4 +1,4 @@
-# GourmetGenius - 美食推荐系统 -- 更多在微信 ： jackSinWu --在咸鱼：不知名选手java小鑫
+# GourmetGenius - 美食推荐系统 -- 更多在微信 ： jackSinWu --在咸鱼：不知名选手java小鑫 --B站：不知名选手java小鑫 关注可打9折
 
 ## 项目介绍
 **GourmetGenius** 是一个基于个性化推荐算法的美食推荐系统，旨在为用户提供个性化的美食推荐、菜谱分享、餐厅查找等功能。该项目是 **个人毕业设计**，结合前端 Vue.js、后端 Spring Boot 和机器学习算法，打造智能化美食推荐体验。
